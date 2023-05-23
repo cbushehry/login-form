@@ -39,3 +39,15 @@ button:hover {
     background-color: #333;
     color: skyblue;
 }
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --background-color: #121212;
+    }
+}
+
+@media (prefers-color-scheme: light) {
+    :root {
+        --background-color: #ffffff;
+    }
+}
