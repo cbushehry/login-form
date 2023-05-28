@@ -9,7 +9,7 @@ DEPLOYMENT:
 ## 2. Features
  * Review code to see how to build this Login Form from scratch with HTML and CSS
 
- ![css-solar-system homepage](./assets/images/login-form.JPG)
+ ![login-form image](./assets/images/login-form.JPG)
 
 ## 3. Tech Stack
  * HTML
